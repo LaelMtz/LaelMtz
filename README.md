@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Lael Martínez</h1>
-<h3 align="center">Software Engineer in Progress</h3>
+<h3 align="center">Software Development and Management Engineer in Progress</h3>
 
 <hr>
 
